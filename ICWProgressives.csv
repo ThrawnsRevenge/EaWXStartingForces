@@ -2539,8 +2539,8 @@ Keskin,4,Rebel,,,2
 Keskin,5,Rebel,,,2
 Keskin,6,Rebel,,,2
 Keskin,7,Rebel,,,2
-Kessel,1,Empire,Empire_Star_Base_3,1,
-Kessel,1,Empire,Generate_Force,1,
+Kessel,1,Warlords,Empire_Star_Base_3,1,
+Kessel,1,Warlords,Generate_Force,1,
 Kessel,2,Warlords,Generate_Force,1,
 Kessel,3,Warlords,,,2
 Kessel,4,Warlords,,,2
@@ -4541,7 +4541,7 @@ Thustra,4,Rebel,Generate_Force,1,
 Thustra,5,Rebel,,,4
 Thustra,6,Rebel,,,4
 Thustra,7,Rebel,,,4
-Thyferra,1,Empire,Generate_Force,1,
+Thyferra,1,Warlords,Generate_Force,1,
 Thyferra,2,Empire,,,1
 Thyferra,3,Rebel,Generate_Force,1,
 Thyferra,4,Rebel,,,3
