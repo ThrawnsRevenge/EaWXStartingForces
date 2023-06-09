@@ -1,4 +1,4 @@
-Planet,Era,Owner,ObjectType,Amount,ReuseEra,,
+Planet,Era,Owner,ObjectType,Amount,ReuseEra
 Planet,1,Pre-CW,Generate_Force,1,
 Planet,2,CW Year 1,Generate_Force,1,
 Planet,3,CW Year 2,Generate_Force,1,
