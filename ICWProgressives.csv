@@ -30,6 +30,8 @@ Abhean,1,Greater_Maldrood,Generic_Acclamator_Assault_Ship_II,1,
 Abhean,1,Greater_Maldrood,Vigil,2,
 Abhean,1,Greater_Maldrood,Star_Galleon,1,
 Abhean,1,Greater_Maldrood,Customs_Corvette,1,
+Abhean,1,Greater_Maldrood,Maldrood_MoffPalace,1,
+Abhean,1,Greater_Maldrood,T_Ground_Barracks,1,
 Abhean,1,Greater_Maldrood,Imperial_2M_Company,1,
 Abhean,1,Greater_Maldrood,Army_Trooper_Squad,2,
 Abhean,1,Greater_Maldrood,Imperial_AT_RT_Company,1,
@@ -40,6 +42,10 @@ Abhean,4,Empire,Empire_Shipyard_Level_Three,1,
 Abhean,4,Empire,Generic_Victory_Destroyer,1,
 Abhean,4,Empire,Dreadnaught_Empire,1,
 Abhean,4,Empire,IPV1_System_Patrol_Craft,3,
+Abhean,4,Empire,Empire_MoffPalace,1,
+Abhean,4,Empire,E_Ground_Barracks,1,
+Abhean,4,Empire,Imperial_Stormtrooper_Squad,2,
+Abhean,4,Empire,Army_Trooper_Squad,2,
 Abhean,5,Empire,Generate_Force,1
 Abhean,6,Rebel,Generate_Force,1,
 Abhean,7,Rebel,Generate_Force,1,
@@ -973,6 +979,7 @@ Charros,1,Greater_Maldrood,Empire_Star_Base_3,1,
 Charros,1,Greater_Maldrood,Generate_Force,1,
 Charros,2,Greater_Maldrood,,,1
 Charros,3,Rebel,NewRepublic_Star_Base_3,1,
+Charros,3,Rebel,Generate_Force,1,
 CHARROS,4,Rebel,NewRepublic_Shipyard_Level_Two,1,
 CHARROS,4,Rebel,NewRepublic_Star_Base_2,1,
 CHARROS,4,Rebel,R_Ground_Barracks,1,
@@ -1360,8 +1367,8 @@ Dathomir,2,Zsinj_Empire,,,1
 Dathomir,3,Rebel,Generate_Force,1,
 Dathomir,4,Rebel,,,3
 Dathomir,5,Rebel,,,3
-Dathomir,6,Rebel,,,3
-Dathomir,7,Rebel,,,3
+Dathomir,6,Hapes_Consortium,Generate_Force,1,
+Dathomir,7,Hapes_Consortium,,,6
 Deko_Neimoidia,1,Empire,Empire_Star_Base_4,1,
 Deko_Neimoidia,1,Empire,Generate_Force,1,
 Deko_Neimoidia,2,Empire,,,1
@@ -1388,7 +1395,8 @@ Dellalt,5,Independent_Forces,,,3
 Dellalt,6,Independent_Forces,,,3
 Dellalt,7,Independent_Forces,,,3
 Denon,1,Empire,Empire_Star_Base_4,1,
-Denon,2,Empire,Generate_Force,1,
+Denon,1,Empire,Generate_Force,1,
+Denon,2,Empire,,,1
 Denon,3,Rebel,NewRepublic_Star_Base_4,1,
 Denon,3,Rebel,Generate_Force,1,
 Denon,4,Rebel,,,3
@@ -1662,7 +1670,7 @@ Essien,3,Rebel,Generate_Force,1,
 Essien,4,Rebel,,,3
 Essien,5,Empire,Empire_Star_Base_2,1,
 Essien,5,Empire,Generate_Force,1,
-Essien,6,Empire,,,6
+Essien,6,Empire,,,5
 Essien,7,Rebel,,,3
 Ession,1,Corporate_Sector,Generate_Force,1,
 Ession,2,Zsinj_Empire,Empire_Star_Base_3,1,
@@ -3099,7 +3107,7 @@ MUSTAFAR,1,Warlords,CSA_B1_Droid_Squad,2,
 MUSTAFAR,1,Warlords,Imperial_Stormtrooper_Squad,2,
 MUSTAFAR,1,Warlords,Imperial_TX130_Company,1,
 MUSTAFAR,1,Warlords,E_Ground_Barracks,1,
-Mustafar,2,Warlords,,,1
+Mustafar,2,Warlords,Generate_Force,1,
 Mustafar,3,Rebel,Generate_Force,1,
 Mustafar,4,Rebel,,,3
 Mustafar,5,Warlords,Generate_Force,1,
@@ -4507,6 +4515,8 @@ Thanos,1,Greater_Maldrood,Generic_Acclamator_Assault_Ship_II,1,
 Thanos,1,Greater_Maldrood,Vigil,2,
 Thanos,1,Greater_Maldrood,Star_Galleon,1,
 Thanos,1,Greater_Maldrood,Customs_Corvette,1,
+Thanos,1,Greater_Maldrood,Maldrood_MoffPalace,1,
+Thanos,1,Greater_Maldrood,T_Ground_Barracks,1,
 Thanos,1,Greater_Maldrood,Imperial_2M_Company,1,
 Thanos,1,Greater_Maldrood,Army_Trooper_Squad,2,
 Thanos,1,Greater_Maldrood,Imperial_AT_RT_Company,1,
