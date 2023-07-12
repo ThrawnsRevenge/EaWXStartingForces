@@ -930,7 +930,7 @@ Cerea,3,Independent_Forces,,,1
 Cerea,4,Independent_Forces,,,1
 Cerea,5,Independent_Forces,,,1
 Cerea,6,Independent_Forces,,,1
-Cerea,7,Rebel,,,1
+Cerea,7,Rebel,Generate_Force,1
 Champala,1,Empire,Empire_Star_Base_3,1,
 Champala,1,Empire,Generate_Force,1,
 Champala,2,Empire,,,1
@@ -954,7 +954,7 @@ Chardaan,3,Rebel,,,1
 Chardaan,4,Rebel,,,1
 Chardaan,5,Rebel,,,1
 Chardaan,6,Rebel,,,1
-Chardaan,7,Neutral,,,1
+Chardaan,7,Neutral,,,
 Charros,1,Greater_Maldrood,Generate_Force,1,
 Charros,2,Greater_Maldrood,Generate_Force,1,
 Charros,3,Rebel,Generate_Force,1,
