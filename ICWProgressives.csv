@@ -2413,7 +2413,7 @@ Kaliida_Nebula,4,Neutral,,,
 Kaliida_Nebula,5,Neutral,,,
 Kaliida_Nebula,6,Neutral,,,
 Kaliida_Nebula,7,Neutral,,,
-Kalinda,1,Independent_Forces,Generate_Force,,
+Kalinda,1,Independent_Forces,Generate_Force,1,
 Kalinda,2,Independent_Forces,,,1
 Kalinda,3,Independent_Forces,,,1
 Kalinda,4,Independent_Forces,,,1
@@ -2457,9 +2457,9 @@ Kampe,1,Eriadu_Authority,Generate_Force,1,
 Kampe,2,Eriadu_Authority,Eriadu_Capital,1,
 Kampe,2,Eriadu_Authority,Generate_Force,1,
 Kampe,3,Eriadu_Authority,,,2
-Kampe,4,Eriadu_Authority,,,3
-Kampe,5,Eriadu_Authority,,,3
-Kampe,6,Eriadu_Authority,,,3
+Kampe,4,Eriadu_Authority,,,2
+Kampe,5,Eriadu_Authority,,,2
+Kampe,6,Eriadu_Authority,,,2
 Kampe,7,Empire,Generate_Force,1,
 Kariek,1,Independent_Forces,Generate_Force,1,
 Kariek,2,Independent_Forces,,,1
