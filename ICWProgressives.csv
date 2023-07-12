@@ -59,7 +59,7 @@ Adumar,5,Independent_Forces,,,1
 Adumar,6,Independent_Forces,,,1
 Adumar,7,Rebel,Generate_Force,1,
 Aeten,1,Neutral,,,
-Aeten,2,Neutral,Action_VI_Support,5,
+Aeten,2,Neutral,,,
 Aeten,3,Neutral,,,
 Aeten,4,Neutral,,,
 Aeten,5,Neutral,,,
@@ -5219,10 +5219,10 @@ Kuar,7,Neutral,,,
 Falleen,1,Empire,Generate_Force,1,
 Falleen,2,Empire,,,1
 Falleen,3,Independent_Forces,Generate_Force,1,
-Falleen,4,Independent_Forces,,,4
-Falleen,5,Independent_Forces,,,4
-Falleen,6,Independent_Forces,,,4
-Falleen,7,Independent_Forces,,,4
+Falleen,4,Independent_Forces,,,3
+Falleen,5,Independent_Forces,,,3
+Falleen,6,Independent_Forces,,,3
+Falleen,7,Independent_Forces,,,3
 Lok,1,Empire,Generate_Force,1,
 Lok,2,Independent_Forces,Generate_Force,1,
 Lok,3,Independent_Forces,,,2
