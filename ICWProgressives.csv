@@ -164,6 +164,7 @@ Alzoc,4,Rebel,,,3
 Alzoc,5,Independent_Forces,Generate_Force,1,
 Alzoc,6,Independent_Forces,,,5
 Alzoc,7,Warlords,Empire_Star_Base_1,1,
+Alzoc,7,Warlords,Generate_Force,1,
 Ambria,1,Independent_Forces,Generate_Force,1,
 Ambria,2,Rebel,Generate_Force,1,
 Ambria,3,Rebel,,,2
@@ -274,7 +275,7 @@ Ardis,4,Neutral,,,
 Ardis,5,Neutral,,,
 Ardis,6,Neutral,,,
 Ardis,7,Neutral,,,
-Arized,1,Independent_Forces,Generate_Force,,
+Arized,1,Independent_Forces,Generate_Force,1,
 Arized,2,Independent_Forces,,,1
 Arized,3,Independent_Forces,,,1
 Arized,4,Independent_Forces,,,1
