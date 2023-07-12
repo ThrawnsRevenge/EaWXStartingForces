@@ -1606,8 +1606,8 @@ Eres,3,Rebel,Generate_Force,1,
 Eres,4,Rebel,,,3
 Eres,5,Empire,Empire_Star_Base_3,1,
 Eres,5,Empire,Generate_Force,1,
-Eres,6,Rebel,,,5
-Eres,7,Rebel,,,5
+Eres,6,Rebel,,,3
+Eres,7,Rebel,,,3
 Eriadu,1,Eriadu_Authority,Generate_Force,1,
 Eriadu,1,Eriadu_Authority,Eriadu_Capital,1,
 Eriadu,2,Warlords,Generate_Force,1,
@@ -2000,6 +2000,7 @@ Glom_Tho,7,Rebel,,,2
 Glova,1,Warlords,Empire_Star_Base_1,1,
 Glova,1,Warlords,Generate_Force,1,
 Glova,2,Rebel,NewRepublic_Star_Base_1,1,
+Glova,2,Rebel,Generate_Force,1,
 Glova,3,Rebel,,,2
 Glova,4,Rebel,,,2
 Glova,5,Rebel,,,2
