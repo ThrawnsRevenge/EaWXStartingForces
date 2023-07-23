@@ -930,7 +930,7 @@ Cerea,3,Independent_Forces,,,1
 Cerea,4,Independent_Forces,,,1
 Cerea,5,Independent_Forces,,,1
 Cerea,6,Independent_Forces,,,1
-Cerea,7,Rebel,Generate_Force,1
+Cerea,7,Rebel,Generate_Force,1,
 Champala,1,Empire,Empire_Star_Base_3,1,
 Champala,1,Empire,Generate_Force,1,
 Champala,2,Empire,,,1
@@ -3301,10 +3301,10 @@ Obroa_Skai,5,Rebel,,,3
 Obroa_Skai,6,Rebel,,,3
 Obroa_Skai,7,Rebel,,,3
 Odik,1,Empire,Generate_Force,1,
-Odik,2,Empire,,,1
-Odik,3,Empire,,,1
+Odik,2,Warlords,,,1
+Odik,3,Warlords,,,1
 Odik,4,Empire,,,1
-Odik,5,Empire,,,1
+Odik,5,Warlords,,,1
 Odik,6,Warlords,Generate_Force,1,
 Odik,7,Empire,,,1
 Ojom,1,Greater_Maldrood,Generate_Force,1,
