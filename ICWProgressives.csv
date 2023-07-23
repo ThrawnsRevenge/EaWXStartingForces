@@ -3301,11 +3301,11 @@ Obroa_Skai,5,Rebel,,,3
 Obroa_Skai,6,Rebel,,,3
 Obroa_Skai,7,Rebel,,,3
 Odik,1,Empire,Generate_Force,1,
-Odik,2,Warlords,,,1
-Odik,3,Warlords,,,1
+Odik,2,Warlords,Generate_Force,1,
+Odik,3,Warlords,,,2
 Odik,4,Empire,,,1
-Odik,5,Warlords,,,1
-Odik,6,Warlords,Generate_Force,1,
+Odik,5,Warlords,,,2
+Odik,6,Warlords,,,2
 Odik,7,Empire,,,1
 Ojom,1,Greater_Maldrood,Generate_Force,1,
 Ojom,2,Greater_Maldrood,,,1
