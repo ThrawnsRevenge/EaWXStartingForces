@@ -176,10 +176,10 @@ Amrac,1,EmpireoftheHand,EotH_Star_Base_2,1,
 Amrac,1,EmpireoftheHand,EotH_Shipyard_Level_Two,1,
 Amrac,1,EmpireoftheHand,Phalanx_Trooper_Squad,1,
 Amrac,1,EmpireoftheHand,Tax_Agency,1,
-Amrac,1,EmpireoftheHand,U_Ground_Barracks,1,
+Amrac,1,EmpireoftheHand,EOTH_Ground_Barracks,1,
 Amrac,1,EmpireoftheHand,Baomu,1,
 Amrac,1,EmpireoftheHand,Kynigos,1,
-Amrac,1,EmpireoftheHand,Hand_GovernorOffice,1,
+Amrac,1,EmpireoftheHand,EOTH_RepresentativeOffice,1,
 Amrac,2,EmpireoftheHand,,,1
 Amrac,3,EmpireoftheHand,,,1
 Amrac,4,EmpireoftheHand,,,1
@@ -3217,7 +3217,7 @@ Nimban,6,Hutt_Cartels,,,1
 Nimban,7,Hutt_Cartels,,,1
 Nirauan,1,EmpireoftheHand,Generate_Force,1,
 Nirauan,1,EmpireoftheHand,EotH_Shipyard_Level_Three,1,
-Nirauan,1,EmpireoftheHand,U_Ground_Palace,1,
+Nirauan,1,EmpireoftheHand,EOTH_Capital,1,
 Nirauan,2,EmpireoftheHand,,,1
 Nirauan,3,EmpireoftheHand,,,1
 Nirauan,4,EmpireoftheHand,,,1
