@@ -1,6 +1,6 @@
 Planet,Era,Owner,ObjectType,Amount,ReuseEra
 Aargau,1,Rebel,Nebulon_B_Frigate,2,
-Aargau,1,Rebel,Corellian_Gunboat,1,
+Aargau,1,Rebel,DP20,1,
 Aargau,1,Rebel,NewRepublic_Star_Base_4,1,
 Aargau,1,Rebel,NewRep_SenatorsOffice,1,
 Aargau,1,Rebel,R_Ground_Barracks,1,
@@ -361,7 +361,7 @@ Bajic,6,Rebel,,,1
 Bajic,7,Rebel,,,1
 Bakura,1,Warlords,Empire_Star_Base_2,1,
 Bakura,1,Warlords,Pter_Thanas,1,
-Bakura,1,Warlords,Corellian_Gunboat,6,
+Bakura,1,Warlords,DP20,6,
 Bakura,1,Warlords,Marauder_Cruiser,3,
 Bakura,1,Warlords,IPV1_System_Patrol_Craft,5,
 Bakura,1,Warlords,Empire_MoffPalace,1,
