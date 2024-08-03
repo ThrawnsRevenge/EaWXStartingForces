@@ -1868,11 +1868,11 @@ Keskin,5,,,,2
 Keskin,6,,,,2
 Keskin,7,,,,2
 Kessel,1,Warlords,Generate_Force,1,
-Kessel,2,,,,2
-Kessel,3,,,,2
-Kessel,4,,,,2
-Kessel,5,,,,2
-Kessel,6,,,,2
+Kessel,2,,,,1
+Kessel,3,,,,1
+Kessel,4,,,,1
+Kessel,5,,,,1
+Kessel,6,,,,1
 Kessel,7,Rebel,Generate_Force,1,
 Ketal,1,Empire,Generate_Force,1,
 Ketal,2,Rebel,Generate_Force,1,
@@ -2276,7 +2276,6 @@ Movris,4,,,,2
 Movris,5,,,,2
 Movris,6,,,,2
 Movris,7,,,,2
-Mrisst,1,Empire,Empire_Star_Base_3,1,
 Mrisst,1,Empire,Generate_Force,1,
 Mrisst,2,,,,1
 Mrisst,3,Rebel,Generate_Force,1,
