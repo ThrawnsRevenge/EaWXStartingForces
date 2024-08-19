@@ -845,11 +845,11 @@ Coruscant,1,Empire,Generate_Force,1,
 Coruscant,1,Empire,Remnant_Capital,1,
 Coruscant,2,,,,1
 Coruscant,3,Rebel,Generate_Force,1,
-Coruscant,4,Rebel,NewRep_Senate,1,
-Coruscant,4,,,,4
-Coruscant,5,,,,4
-Coruscant,6,,,,4
-Coruscant,7,,,,4
+Coruscant,3,Rebel,NewRep_Senate,1,
+Coruscant,4,,,,3
+Coruscant,5,,,,3
+Coruscant,6,,,,3
+Coruscant,7,,,,3
 Corvis_Minor,1,Empire,Generate_Force,1,
 Corvis_Minor,2,Warlords,Generate_Force,1,
 Corvis_Minor,3,,,,1
