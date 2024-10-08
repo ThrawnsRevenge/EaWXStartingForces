@@ -1341,9 +1341,9 @@ Ganath,3,,,,1
 Ganath,4,,,,1
 Ganath,5,,,,1
 Ganath,6,,,,1
-Garos,1,Empire,Generate_Force,1,
-Garos,2,Underworld,Generate_Force,1,
-Garos,3,,,,2
+Garos,1,Independent_Forces,Generate_Force,1,
+Garos,2,,,,1
+Garos,3,Underworld,Generate_Force,1,
 Garos,4,Rebel,Generate_Force,1,
 Garos,5,,,,4
 Garos,6,,,,4
