@@ -2732,9 +2732,9 @@ Phaeda,3,,,,1
 Phaeda,4,,,,1
 Phaeda,5,,,,1
 Phaeda,6,,,,1
-Phindar,1,Underworld,Generate_Force,1,
+Phindar,1,Empire,Generate_Force,1,
 Phindar,2,,,,1
-Phindar,3,,,,1
+Phindar,3,Underworld,Generate_Force,1,
 Phindar,4,Rebel,Generate_Force,1,
 Phindar,5,,,,4
 Phindar,6,,,,4
