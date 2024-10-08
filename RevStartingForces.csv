@@ -2877,8 +2877,8 @@ Ralltiir,4,,,,1
 Ralltiir,5,,,,1
 Ralltiir,6,,,,1
 Randon,1,Rebel,Generate_Force,1,
-Randon,2,,,,1
-Randon,3,,,,1
+Randon,2,Empire,Generate_Force,1,
+Randon,3,,,,2
 Randon,4,,,,1
 Randon,5,,,,1
 Randon,6,Sith_Warlords,Generate_Force,1,
