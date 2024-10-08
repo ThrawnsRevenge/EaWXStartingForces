@@ -2096,12 +2096,12 @@ Mandalore,3,,,,1
 Mandalore,4,,,,1
 Mandalore,5,,,,1
 Mandalore,6,,,,1
-Maridun,1,Independent_Forces,Generate_Force,1,
+Maridun,1,Rakata_Empire,Generate_Force,1,
 Maridun,2,,,,1
-Maridun,3,Underworld,Generate_Force,1,
-Maridun,4,Rebel,Generate_Force,1,
-Maridun,5,,,,4
-Maridun,6,,,,4
+Maridun,3,,,,1
+Maridun,4,,,,1
+Maridun,5,,,,1
+Maridun,6,,,,1
 Maryo,1,Independent_Forces,Generate_Force,1,
 Maryo,2,,,,1
 Maryo,3,,,,1
@@ -2878,7 +2878,7 @@ Ralltiir,5,,,,1
 Ralltiir,6,,,,1
 Randon,1,Rebel,Generate_Force,1,
 Randon,2,,,,1
-Randon,3,,,,1
+Randon,3,Empire,Generate_Force,1,
 Randon,4,,,,1
 Randon,5,,,,1
 Randon,6,Sith_Warlords,Generate_Force,1,
