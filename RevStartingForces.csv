@@ -2180,12 +2180,12 @@ Mintooine,3,,,,1
 Mintooine,4,,,,1
 Mintooine,5,,,,1
 Mintooine,6,,,,1
-Mirial,1,Rebel,Generate_Force,1,
+Mirial,1,Sector_Forces,Generate_Force,1,
 Mirial,2,,,,1
 Mirial,3,,,,1
-Mirial,4,,,,1
-Mirial,5,,,,1
-Mirial,6,,,,1
+Mirial,4,Rebel,Generate_Force,1,
+Mirial,5,,,,4
+Mirial,6,,,,4
 Miztoc,1,Empire,Generate_Force,1,
 Miztoc,2,,,,1
 Miztoc,3,,,,1
