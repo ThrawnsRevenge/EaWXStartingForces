@@ -120,8 +120,8 @@ Alsakan,4,,,,1
 Alsakan,5,,,,1
 Alsakan,6,,,,1
 Althir,1,Independent_Forces,Generate_Force,1,
-Althir,2,,,,1
-Althir,3,Underworld,Generate_Force,1,
+Althir,2,Underworld,Generate_Force,1,
+Althir,3,,,,2
 Althir,4,Rebel,Generate_Force,1,
 Althir,5,,,,4
 Althir,6,,,,1
@@ -593,8 +593,8 @@ Castell,4,Rebel,Generate_Force,1,
 Castell,5,,,,4
 Castell,6,,,,1
 Cathar,1,Independent_Forces,Generate_Force,1,
-Cathar,2,,,,1
-Cathar,3,Underworld,Generate_Force,1,
+Cathar,2,Underworld,Generate_Force,1,
+Cathar,3,,,,2
 Cathar,4,,,,1
 Cathar,5,,,,1
 Cathar,6,,,,1
@@ -1233,6 +1233,12 @@ Feriae_Junction,3,,,,1
 Feriae_Junction,4,,,,1
 Feriae_Junction,5,,,,1
 Feriae_Junction,6,,,,1
+Feswe_Prime,1,Underworld,Generate_Force,1,
+Feswe_Prime,2,,,,1
+Feswe_Prime,3,,,,1
+Feswe_Prime,4,,,,1
+Feswe_Prime,5,,,,1
+Feswe_Prime,6,,,,1
 Filve,1,Sector_Forces,Generate_Force,1,
 Filve,2,,,,1
 Filve,3,,,,1
