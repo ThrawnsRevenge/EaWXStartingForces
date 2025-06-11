@@ -314,7 +314,7 @@ Bastion,4,,,,1
 Bastion,5,,,,1
 Bastion,6,,,,1
 Bastion,7,Empire,Generate_Force,1,
-Bastion,7,Empire,Remnant_Capital,1,
+Bastion,7,Empire,Empire_Capital,1,
 Bazaar,1,Empire,Generate_Force,1,
 Bazaar,2,,,,1
 Bazaar,3,Rebel,Generate_Force,1,
@@ -484,7 +484,7 @@ Botajef,5,,,,1
 Botajef,6,,,,1
 Botajef,7,,,,1
 Bothawui,1,Rebel,Generate_Force,1,
-Bothawui,1,Rebel,NewRep_Senate,1,
+Bothawui,1,Rebel,NewRep_Capital,1,
 Bothawui,2,,,,1
 Bothawui,3,Rebel,Generate_Force,1,
 Bothawui,4,,,,3
@@ -534,7 +534,7 @@ Byblos,5,,,,3
 Byblos,6,,,,3
 Byblos,7,,,,3
 Byss,4,Empire,Generate_Force,1,
-Byss,4,Empire,Remnant_Capital,1,
+Byss,4,Empire,Empire_Capital,1,
 Cal_Seti,1,Warlords,Generate_Force,1,
 Cal_Seti,2,Rebel,Generate_Force,1,
 Cal_Seti,3,,,,2
@@ -842,10 +842,10 @@ Corulag,5,Warlords,Generate_Force,1,
 Corulag,6,Rebel,Generate_Force,1,
 Corulag,7,,,,6
 Coruscant,1,Empire,Generate_Force,1,
-Coruscant,1,Empire,Remnant_Capital,1,
+Coruscant,1,Empire,Empire_Capital,1,
 Coruscant,2,,,,1
 Coruscant,3,Rebel,Generate_Force,1,
-Coruscant,3,Rebel,NewRep_Senate,1,
+Coruscant,3,Rebel,NewRep_Capital,1,
 Coruscant,4,,,,3
 Coruscant,5,,,,3
 Coruscant,6,,,,3
@@ -1548,7 +1548,7 @@ Handooine,5,,,,4
 Handooine,6,,,,4
 Handooine,7,,,,4
 Hapes,1,Hapes_Consortium,Generate_Force,1,
-Hapes,1,Hapes_Consortium,Hapan_Palace,1,
+Hapes,1,Hapes_Consortium,Hapan_Capital,1,
 Hapes,2,,,,1
 Hapes,3,,,,1
 Hapes,4,,,,1
@@ -2368,7 +2368,7 @@ Naboo,5,,,,2
 Naboo,6,,,,2
 Naboo,7,,,,2
 Nal_Hutta,1,Hutt_Cartels,Generate_Force,1,
-Nal_Hutta,1,Hutt_Cartels,Hutt_Palace,1,
+Nal_Hutta,1,Hutt_Cartels,Hutt_Capital,1,
 Nal_Hutta,2,,,,1
 Nal_Hutta,3,,,,1
 Nal_Hutta,4,,,,1
