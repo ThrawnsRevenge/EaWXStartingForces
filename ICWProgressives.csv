@@ -1772,9 +1772,6 @@ Kalee,4,,,,1
 Kalee,5,,,,1
 Kalee,6,,,,1
 Kalee,7,Empire,Generate_Force,1,
-Katana_Space,1,Warlords,Katana_DHC,1,
-Katana_Space,2,,,,1
-Katana_Space,3,,,,1
 Kalinda,1,Independent_Forces,Generate_Force,1,
 Kalinda,2,,,,1
 Kalinda,3,,,,1
@@ -1832,7 +1829,7 @@ Kashyyyk,4,,,,2
 Kashyyyk,5,,,,2
 Kashyyyk,6,,,,2
 Kashyyyk,7,,,,2
-Katana_Space,1,Warlords,Generate_Force,1,
+Katana_Space,1,Warlords,Katana_DHC,1,
 Katana_Space,2,,,,1
 Katana_Space,3,,,,1
 Kattada,1,Empire,Generate_Force,1,
