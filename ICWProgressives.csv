@@ -946,12 +946,12 @@ Darkon,5,,,,1
 Darkon,6,,,,1
 Darkon,7,,,,1
 Datar,1,Empire,Generate_Force,1,
-Datar,2,Rebel,Generate_Force,1,
-Datar,3,,,,2
-Datar,4,,,,2
+Datar,2,,,,1
+Datar,3,Rebel,Generate_Force,1,
+Datar,4,,,,3
 Datar,5,,,,1
-Datar,6,,,,2
-Datar,7,,,,2
+Datar,6,,,,3
+Datar,7,,,,3
 Dathomir,1,Zsinj_Empire,Generate_Force,1,
 Dathomir,1,Zsinj_Empire,Rancor_Base,1,
 Dathomir,2,,,,1
