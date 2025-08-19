@@ -1216,11 +1216,11 @@ Exocron,6,,,,4
 Exocron,7,,,,4
 Exodeen,1,Empire,Generate_Force,1,
 Exodeen,2,,,,1
-Exodeen,3,,,,1
-Exodeen,4,Rebel,Generate_Force,1,
-Exodeen,5,,,,4
-Exodeen,6,,,,4
-Exodeen,7,,,,4
+Exodeen,3,Rebel,Generate_Force,1,
+Exodeen,4,,,,3
+Exodeen,5,,,,3
+Exodeen,6,,,,3
+Exodeen,7,,,,3
 Exodo,1,Greater_Maldrood,Generate_Force,1,
 Exodo,2,,,,1
 Exodo,3,Rebel,Generate_Force,1,
