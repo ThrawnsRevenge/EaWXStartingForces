@@ -3686,8 +3686,8 @@ Thustra,4,Rebel,Generate_Force,1,
 Thustra,5,,,,4
 Thustra,6,,,,4
 Thustra,7,,,,4
-Thyferra,1,Empire,Generate_Force,1,
-Thyferra,2,,,,1
+Thyferra,1,Warlords,Generate_Force,1,
+Thyferra,2,Empire,Generate_Force,1,
 Thyferra,3,Rebel,Generate_Force,1,
 Thyferra,4,,,,3
 Thyferra,5,,,,3
