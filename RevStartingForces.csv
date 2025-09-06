@@ -2987,6 +2987,12 @@ Reecee,3,,,,1
 Reecee,4,,,,1
 Reecee,5,Rebel,Generate_Force,1,
 Reecee,6,,,,5
+Regnant,1,Independent_Forces,Generate_Force,1,
+Regnant,2,,,,1
+Regnant,3,,,,1
+Regnant,4,,,,1
+Regnant,5,,,,1
+Regnant,6,,,,1
 Rekkiad,1,Independent_Forces,Generate_Force,1,
 Rekkiad,2,,,,1
 Rekkiad,3,Underworld,Generate_Force,1,
@@ -3424,12 +3430,6 @@ Sy_Myrth,3,Underworld,Generate_Force,1,
 Sy_Myrth,4,Rebel,Generate_Force,1,
 Sy_Myrth,5,,,,4
 Sy_Myrth,6,,,,4
-Syca,1,Independent_Forces,Generate_Force,1,
-Syca,2,,,,1
-Syca,3,,,,1
-Syca,4,,,,1
-Syca,5,,,,1
-Syca,6,,,,1
 Syned,1,Krath,Generate_Force,1,
 Syned,2,Empire,Generate_Force,1,
 Syned,3,,,,2
