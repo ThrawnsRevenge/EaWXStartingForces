@@ -2399,6 +2399,13 @@ Mandalore,4,,,,1
 Mandalore,5,,,,1
 Mandalore,6,,,,1
 Mandalore,7,,,,1
+Mantooine,1,Rebel,Generate_Force,1,
+Mantooine,2,,,,1
+Mantooine,3,,,,1
+Mantooine,4,,,,1
+Mantooine,5,,,,1
+Mantooine,6,,,,1
+Mantooine,7,,,,1
 Maridun,1,Zsinj_Empire,Generate_Force,1,
 Maridun,2,,,,1
 Maridun,3,Rebel,Generate_Force,1,
@@ -4435,6 +4442,13 @@ UR6572AK,4,,,,1
 UR6572AK,5,,,,1
 UR6572AK,6,,,,1
 UR6572AK,7,,,,1
+Urce,1,Pentastar,Generate_Force,1,
+Urch,2,,,,1
+Urch,3,Rebel,Generate_Force,1,
+Urch,4,,,,3
+Urch,5,,,,1
+Urch,6,,,,3
+Urch,7,,,,3
 Urch,1,Independent_Forces,Generate_Force,1,
 Urch,2,,,,1
 Urch,3,,,,1
